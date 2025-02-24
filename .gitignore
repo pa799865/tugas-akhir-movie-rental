@@ -1,0 +1,6 @@
+#abaikan folder
+html/
+.vscode/
+img/background-video-landscape.mp4
+
+*.documentation.html
